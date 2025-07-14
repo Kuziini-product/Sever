@@ -1,0 +1,60 @@
+newmtl U156_ST9
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/corpus_ionut/CorpusUpdate/ElmTex/PAL_Egger/U156_ST9.jpg
+
+newmtl W960_SM
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/corpus_ionut/CorpusUpdate/ElmTex/PAL_Egger/W960_SM.jpg
+
+newmtl PFL_Alb
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/corpus_ionut/CorpusUpdate/ElmTex/PLF/PFL_Alb.jpg
+
+newmtl cmetal
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/corpus_ionut/CorpusUpdate/ElmTex/Metal/cmetal.bmp
+
+newmtl U999_ST20
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/corpus_ionut/CorpusUpdate/ElmTex/PAL_Egger/U999_ST20.jpg
+
+newmtl U156_ST9
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/corpus_ionut/CorpusUpdate/ElmTex/PAL_Egger/U156_ST9.jpg
+
