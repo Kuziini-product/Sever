@@ -1,0 +1,130 @@
+newmtl W1000 ST9 Premium White
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/ - DECORURI/W1000 ST9 Premium White.jpg
+
+newmtl ametal
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/Metal/ametal.bmp
+
+newmtl RX04_Chrome_02
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/Reflex/RX04_Chrome_02.jpg
+
+newmtl Staklo_00
+Ns 2
+Ka 0.75294 0.7529 0.7529
+Kd 1 0.502 0
+Ks 0 0 0
+Ni 1.000
+d 0.21569
+illum 4
+map_Kd C:/Corpus_cloud/ElmTex/Glass/Staklo_00.bmp
+
+newmtl RX24_Orange_02
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/Reflex/RX24_Orange_02.jpg
+
+newmtl 734
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/AGT/734.jpg
+
+newmtl W960 ST7 Classic White
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/ - DECORURI/W960 ST7 Classic White.jpg
+
+newmtl RX12_White_02
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/Reflex/RX12_White_02.jpg
+
+newmtl RX06_Gold_02
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/Reflex/RX06_Gold_02.jpg
+
+newmtl _0
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/-----/_0.jpg
+
+newmtl mt1_004
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/-----/mt1_004.jpg
+
+newmtl U727 ST9 Stone Grey
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/ - DECORURI/U727 ST9 Stone Grey.jpg
+
+newmtl RX14_Gray_02
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/Reflex/RX14_Gray_02.jpg
+
